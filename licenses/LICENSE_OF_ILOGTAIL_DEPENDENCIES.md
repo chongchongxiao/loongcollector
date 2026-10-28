@@ -4,6 +4,20 @@ When distributed in a binary form, iLogtail may contain portions of the followin
 
 ## Apache 2.0 licenses
 
+- [gopkg.in/ini.v1](https://pkg.go.dev/gopkg.in/ini.v1?tab=licenses)
+
+- [github.com/google/flatbuffers](https://pkg.go.dev/github.com/google/flatbuffers?tab=licenses)
+
+- [github.com/alibabacloud-go/tea](https://pkg.go.dev/github.com/alibabacloud-go/tea?tab=licenses)
+
+- [github.com/alibabacloud-go/debug](https://pkg.go.dev/github.com/alibabacloud-go/debug?tab=licenses)
+
+- [github.com/aliyun/credentials-go](https://github.com/aliyun/credentials-go/blob/master/LICENSE)
+
+- [github.com/aliyun/aliyun-odps-go-sdk](https://github.com/aliyun/aliyun-odps-go-sdk/blob/master/LICENSE)
+
+- [github.com/aliyun/aliyun-datahub-sdk-go](https://github.com/aliyun/aliyun-datahub-sdk-go/blob/master/LICENSE)
+
 - [github.com/openkruise/kruise-api](https://pkg.go.dev/github.com/openkruise/kruise-api?tab=licenses)
 - [github.com/pingcap/failpoint](https://pkg.go.dev/github.com/pingcap/failpoint?tab=licenses)
 - [github.com/pingcap/tidb/pkg/parser](https://pkg.go.dev/github.com/pingcap/tidb/pkg/parser?tab=licenses)
@@ -119,6 +133,10 @@ When distributed in a binary form, iLogtail may contain portions of the followin
 
 ## BSD licenses
 
+- [golang.org/x/xerrors](https://pkg.go.dev/golang.org/x/xerrors?tab=licenses)
+
+- [github.com/golang/protobuf](https://pkg.go.dev/github.com/golang/protobuf?tab=licenses)
+
 - [github.com/cznic/mathutil](https://pkg.go.dev/github.com/cznic/mathutil?tab=licenses)
 - [github.com/klauspost/compress](https://pkg.go.dev/github.com/klauspost/compress?tab=licenses)
 - [github.com/danwakefield/fnmatch](https://pkg.go.dev/github.com/danwakefield/fnmatch?tab=licenses)
@@ -172,6 +190,8 @@ When distributed in a binary form, iLogtail may contain portions of the followin
 - [github.com/jeromer/syslogparser](https://pkg.go.dev/github.com/jeromer/syslogparser?tab=licenses)
 
 ## MIT licenses
+
+- [github.com/hamba/avro/v2](https://pkg.go.dev/github.com/hamba/avro/v2?tab=licenses)
 
 - [github.com/goccy/go-json](https://pkg.go.dev/github.com/goccy/go-json?tab=licenses)
 - [github.com/gofrs/uuid](https://pkg.go.dev/github.com/gofrs/uuid?tab=licenses)

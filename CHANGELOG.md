@@ -36,6 +36,7 @@ your changes, such as:
 - [public] [both] [updated] add a new feature
 
 ## [Unreleased]
+- [public] [both] [added] Add Alibaba Cloud DataHub and MaxCompute flusher plugins
 - [public] [both] [security] Upgrade the source build requirement to Go 1.25.9+ and update vulnerable Go dependencies
 - [public] [linux] [removed] Remove CRI v1alpha2 compatibility and require CRI v1 (containerd 1.6+)
 - [inner] [both] [updated] Support SLS Metricstore output

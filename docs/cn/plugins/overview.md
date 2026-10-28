@@ -178,6 +178,8 @@
 
 | 名称 | 提供方 | v1 接口 | v2 接口 | Log | Metric | Span | 简介 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `flusher_aliyun_datahub`<br>[阿里云 DataHub](flusher/extended/flusher-aliyun-datahub.md) | 社区<br>[panjxhhhhh](https://github.com/panjxhhhhh) | ✓ | ✓ | v1 | 透传未知 | 透传未知 | 将日志写入 DataHub Tuple 或 BLOB Topic。 |
+| `flusher_aliyun_odps`<br>[阿里云 MaxCompute](flusher/extended/flusher-aliyun-odps.md) | 社区<br>[panjxhhhhh](https://github.com/panjxhhhhh) | ✓ | ✓ | v1 | 透传未知 | 透传未知 | 将日志通过 Tunnel 写入 MaxCompute 表。 |
 | `flusher_clickhouse`<br>[ClickHouse](flusher/extended/flusher-clickhouse.md) | 社区<br>[kl7sn](https://github.com/kl7sn) | ✓ | ✓ | v1&v2 | 透传未知 | 透传未知 | 将采集到的数据输出到 ClickHouse。 |
 | `flusher_doris`<br>[Apache Doris](flusher/extended/flusher-doris.md) | 社区 | ✓ | ✓ | v1&v2 | 透传未知 | 透传未知 | 通过 Stream Load 将数据写入 Apache Doris。 |
 | `flusher_elasticsearch`<br>[ElasticSearch](flusher/extended/flusher-elasticsearch.md) | 社区<br>[joeCarf](https://github.com/joeCarf) | ✓ | ✓ | v1&v2 | 透传未知 | 透传未知 | 将采集到的数据输出到 ElasticSearch。 |
